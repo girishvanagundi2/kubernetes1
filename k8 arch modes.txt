@@ -1,0 +1,79 @@
+k8 node js--spring boot--postgress
+
+https://dev.to/narek_babajanyan/containerizing-a-springangular-application-with-docker-compose-1faj    --3 tier java  
+
+https://medium.com/@aaloktrivedi/using-kubernetes-to-deploy-a-3-tier-containerized-application-infrastructure-9fbbbbc85ff6
+
+
+
+udemy--
+https://www.udemy.com/course/docker-kubernetes-the-practical-guide/
+
+https://docs.docker.com/build/building/multi-stage/  
+
+https://www.reddit.com/r/kubernetes/comments/12cdxm1/is_it_a_bad_idea_to_run_a_pod_that_contain/  ***
+
+https://balkrishan-nagpal.medium.com/kubernetes-how-to-deploy-different-pods-close-to-each-other-same-node-or-zone-etc-51c6e286f714  ??
+
+
+https://www.youtube.com/watch?v=OsWXtVbTnv0
+
+
+postgrss replica--patroni--s
+https://github.com/zalando/spilo
+https://patroni.readthedocs.io/en/latest/kubernetes.html 
+
+
+to be read--
+Cluster IP
+NodePort
+LoadBalancer
+https://medium.com/@vikashtalanki/k8s-clusterip-nodeport-load-balancer-in-one-glance-c7db299100c8
+ 
+ 
+ 
+
+ 
+ Pit link basic -- push to ftp location /limited health 
+                --not invoking any rest api..
+                
+ 
+ VF--can be used??
+   --send to cat cloud
+    customer cloud ??
+    
+    cat foresight ?
+    PLE machines --subscribed to HEI 
+     
+opt1) Minestar  --  VF  --         CAT cloud 
+            ftp    rest(ccds)
+            
+opt2) Minestar/VF  -- CAT cloud
+              rest(CCDS)
+
+opt3)  customer cloud ??             
+    FileService Client   ---     File service Server  --(customer cloud/cat cloud)                         
+                         Rest/Webclient
+                         
+    HDV Extn??
+    
+opt4) Minestar/VF  -- Cust cloud
+              rest(CCDSNew --cust cloud support)
+              
+              
+              
+                                       
+
+                                
+ 
+If the log is not present, turn it on by opening a cmd and running:
+ 
+ 
+ 
+netsh advfirewall set allprofiles logging filename c:\windows\system32\LogFiles\Firewall\pfirewall.log
+netsh advfirewall set allprofiles logging droppedconnections enable
+
+
+Firewall Log: 'c:\windows\system32\LogFiles\Firewall\pfirewall.log' -- Used to see where dropped traffic is occurring and if it is occurring
+
+                                
